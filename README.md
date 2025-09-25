@@ -4,7 +4,7 @@
 **NIM**: 1237050050  
 **Program Studi**: Teknik Informatika C  
 
-![Keterangan gambar](foto.jpg)
+![Tampilan Aplikasi](https://github.com/user-attachments/assets/08535397-a90c-46e6-9d64-60ba60ad75d9)
 
 
 ## Deskripsi
